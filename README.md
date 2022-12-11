@@ -1,8 +1,8 @@
 # HackDavis-AI-Cancer-Detection
-Inspiration
+##Inspiration
 Cancer is the second highest form of death among the global population. Nearly 1 out of 3 people in the US will be diagnosed with cancer in their lifetime. 1.8 million people were diagnosed with cancer in 2019, with 607,000 people's lives taken by the disease, including some of those close to us. While a cure for cancer still evades us, steps can be taken to reduce the impact that it has. As the World Health Organization stated, "Early detection of cancer dramatically increases chances for successful treatment." With this in mind, our team set out to save as many lives as possible by combining the technologies of machine learning, artificial intelligence, and computer vision to help spot and stop cancer.
 
-What it does:
+#What it does:
 Skin Cancer: Our app allows users to upload an image of a tumor in question to determine whether it is classifies as benign (harmless), or malignant (dangerous). The app also classifies which form of cancer the tumor resembles: melanoma (MEL), basal cell carcinoma (BCC), or actinic keratosis /Bowens disease (AKIEC). The potential for this project to have a global impact lies in the fact that any person in their home can take a picture of their own skin, run it through the program, and receive real-time feedback about the issue in question with higher accuracy than professional diagnosis. Model is trained through the use of a Convolutional Neural Network.
 
 Brain Cancer: This aspect of the app is tailored more towards the professional audience (doctors and other health care workers) in that it allows the user to input MRI scans and detect signs of hemorrhage. Trained with a dataset consisting of thousands of pre-classified MRI scans, this model makes use of patterns unrecognizable to the human eye, ultimately making predictions 99.17% accuracy; a number far beyond the scope of human judgement. Model is trained through the use of a Convolutional Neural Network.
