@@ -29,3 +29,14 @@ Brain Tumor CNN - https://drive.google.com/drive/folders/1gKv41n_n8I_Q3n79K7BRnG
 Skin Cancer CNN - https://drive.google.com/drive/folders/1-i04lh7KtMQQNSdfGCRMzWWdaVsOkKpi?usp=sharing
 Breast Cancer ANN - https://drive.google.com/drive/folders/1Mp6BiXSbncNzAIDILMIWvOoi-BQ4xcVo?usp=sharing
 Skin Cancer In-Depth CNN (beta) - https://drive.google.com/drive/folders/102Ezlt6plIZEIIIZw6Qvz9rzXhmcuBmI?usp=sharing
+
+Built With
+flask
+google-colabs-remote-gpu
+keras
+numpy
+pandas
+pickle
+python
+scikit-learn
+tensorflow
