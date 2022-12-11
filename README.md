@@ -10,7 +10,7 @@ Brain Cancer: This aspect of the app is tailored more towards the professional a
 
 Breast Cancer: Trained with an Artificial Neural Network as opposed to the previous models which utilized computer vision, this algorithm is capable of using .csv files to train itself and make predictions. This model is used for those who have access to numeric and categorical data as opposed to image files, and boasts impressive run-times and accuracy. Training itself in under 10 seconds, this model breast cancer diagnoses with 97% precision. Not only that, but the model used can be generalized to make predictions on any .csv dataset. This neural network can be applied to the fields of health care, finance, sales, or any other that seeks to take advantage of Big Data to leverage business insights.
 
-### How the regression models were built:
+## How the regression models were built:
 Combining a variety of Python libraries (Keras, TensorFlow, SkLearn, etc.) and Kaggle datasets, each model was trained on data, and the regression equations were exported then the equation was used to make a prediction about a user-defined piece of data. All datasets were preprocessed and split into test and training sets, and each model's accuracy was verified against the test sets. The Google Colaboratory remote GPU was used to train the Convolutional Neural Networks, with the local CPU being used to train the Artificial Neural Networks.
 
 ## Challenges:
